@@ -1,0 +1,149 @@
+
+        .container {
+            border: 5px solid rgb(251, 255, 0);
+            padding: 30px;
+            background-color: rgb(251, 255, 196);
+           background-size: cover;
+            border-radius: 10px;
+        }
+        .table1 .row .col-6,
+        .col-2 {
+            border: 1px solid  gray;
+        }
+
+
+        .col img {
+            text-align: right;
+            margin-left: 170px;
+        }
+
+        input {
+            width: 50px
+        }
+
+        #grandTotal,
+        #grandTotalWords {
+            width: 250px;
+            margin-left: 20px;
+        }
+
+        
+
+        #total {
+            width: 30%;
+            border: 1px solid;
+            border-radius: 5px;
+            margin-left: 20px;
+        }
+
+        .row .col-12 {
+            padding: 20px;
+        }
+
+
+        .offer {
+            padding: 10px;
+        }
+
+        .col-2 input {
+            padding: 10px;
+            width: 190px;
+        }
+
+        .sign {
+            text-align: end;
+        }
+
+        .seal img {
+            margin-left: 430px;
+            margin-top: 30px;
+        }
+
+        .date {
+            text-align: left;
+            color: green;
+        }
+
+        .conclusion {
+            text-align: center;
+            color: rgb(79, 2, 79);
+            font-style: italic;
+            font-weight: bolder;
+        }
+
+        #totalWords1,
+        #totalWords2,
+        #totalWords3,
+        #totalWords4,
+        #totalWords5,
+        #totalWords6,
+        #totalWords7,
+        #totalWords8 {
+            width: 150px;
+        }
+
+        .col .qr {
+            height: 100px;
+            margin-left: 280px;
+        }
+
+        .col-6 .name {
+            color: darkorange;
+        }
+
+        .col-3 .name {
+            color: darkorange;
+        }
+
+        ul li {
+            display: inline;
+        }
+
+        .nu {
+            color: red;
+           
+            text-decoration: underline;
+        }
+
+        img {
+            height: 134px;
+        }
+
+        h1 {
+            text-align: center;
+            color: rgb(1, 1, 141);
+        }
+
+        .text h3,
+        h4 {
+            text-align: center;
+            color: green;
+           
+        }
+
+        h2 {
+            text-align: center;
+            color: red;
+          
+        }
+
+        th {
+            text-align: center;
+        }
+
+        .table .row .col-6,
+        .col-3 {
+            border: 1px solid gray;
+        }
+
+        h5 {
+            text-align: center;
+        }
+
+        .sname {
+            padding-left: 250px;
+        }
+
+      
+
+    
